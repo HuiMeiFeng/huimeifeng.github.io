@@ -56,8 +56,8 @@ My research interest includes neural machine translation and computer vision. I 
   
 
 # 💬 Talks
-- *2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.10.10*, China-VO and Astroinformatics 2023, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, Research on the Guide Star Catalog of the CSST. 
+- *2023.10.10*, China-VO and Astroinformatics 2023, Research on the Guide Star Catalog of the CSST.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
