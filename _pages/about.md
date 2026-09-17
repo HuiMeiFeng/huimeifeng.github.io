@@ -29,6 +29,7 @@ Hello, everyone!
 
 # 📝 Publications 
 1、**Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. All-sky Guide Star Catalog for CSST. Research in Astronomy and Astrophysics, 2024, 24, 045004. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad26b6)
+
 2、**Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. The Velocity Aberration Effect of the CSST Main Survey Camera. Research in Astronomy and Astrophysics, 2024, 24, 095010. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad7078)
 
 
