@@ -28,9 +28,11 @@ Hello, everyone!
 -->
 
 # 📝 Publications 
-1、**Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. All-sky Guide Star Catalog for CSST. Research in Astronomy and Astrophysics, 2024, 24, 045004. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad26b6)
+1. **Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. All-sky Guide Star Catalog for CSST. Research in Astronomy and Astrophysics, 2024, 24, 045004. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad26b6)
 
-2、**Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. The Velocity Aberration Effect of the CSST Main Survey Camera. Research in Astronomy and Astrophysics, 2024, 24, 095010. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad7078)
+2. **Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. The Velocity Aberration Effect of the CSST Main Survey Camera. Research in Astronomy and Astrophysics, 2024, 24, 095010. \| [\[link\]](https://doi.org/10.1088/1674-4527/ad7078)
+
+3. **Hui-Mei Feng**, Qing-Ling Li, Quan Zhang, et al. Test and Evaluation of CMOS Detector for Fine Guidance Sensor with the Tsinghua-NAOC 80 cm Telescope. Research in Astronomy and Astrophysics, 2026, 26, 125022. \| [\[link\]](https://doi.org/10.1088/1674-4527/ae7f87)
 
 
 <!-- 
