@@ -28,6 +28,7 @@ Hello, everyone!
 -->
 
 # 📝 Publications 
+1、**Hui-Mei Feng**, Zi-Huang Cao, Man I. Lam, et al. All-sky Guide Star Catalog for CSST. Research in Astronomy and Astrophysics, 2024, 24, 045004. \| link ([https://github.com/](https://doi.org/10.1088/1674-4527/ad26b6))
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -61,7 +62,8 @@ Hello, everyone!
 # 💬 Talks
 - （**Talk**）*2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, Research on the Guide Star Catalog of the CSST.
 - （**Poster**）*2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, CSST Science Preparation: The Main Guide Star Catalog For CSST Sky Survey.
-- （**Talk**）*2023.10.10*, China-VO and Astroinformatics 2023, Research on the Guide Star Catalog of the CSST, Research on the Guide Star Catalog of the CSST. <!-- # \| [\[video\]](https://github.com/)-->
+- （**Talk**）*2023.10.10*, China-VO and Astroinformatics 2023, Research on the Guide Star Catalog of the CSST, Research on the Guide Star Catalog of the CSST.
+  <!-- # \| [\[video\]](https://github.com/)-->
 
 <!-- 
 # 💻 Internships
