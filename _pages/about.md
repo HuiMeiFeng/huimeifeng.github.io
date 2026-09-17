@@ -65,7 +65,7 @@ Hello, everyone!
   
 
 # 💬 Talks
-- 2023.07.05, *Research on the Guide Star Catalog of the CSST*. Workshop on the Current Status and Future of Fundamental Astronomy, Yunnan, China, 2023. (**Talk**)
+- 2023.07.05, *Research on the Guide Star Catalog of the CSST*, Workshop on the Current Status and Future of Fundamental Astronomy, Yunnan, China, 2023. (**Talk**)
 - 2023.07.05, *CSST Science Preparation: The Main Guide Star Catalog for CSST Sky Survey*, Workshop on the Current Status and Future of Fundamental Astronomy,  Yunnan, China, 2023. (**Poster**)
 - 2023.10.10, *Research on the Guide Star Catalog of the CSST*, China-VO and Astroinformatics 2023, Guizhou, China, 2023. (**Talk**)
   <!-- # \| [\[video\]](https://github.com/)-->
