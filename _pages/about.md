@@ -65,9 +65,9 @@ Hello, everyone!
   
 
 # 💬 Talks
-- （**Talk**）*2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, Research on the Guide Star Catalog of the CSST.
-- （**Poster**）*2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, CSST Science Preparation: The Main Guide Star Catalog For CSST Sky Survey.
-- （**Talk**）*2023.10.10*, China-VO and Astroinformatics 2023, Research on the Guide Star Catalog of the CSST, Research on the Guide Star Catalog of the CSST.
+- *2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, Research on the Guide Star Catalog of the CSST. (**Talk**)
+- *2023.07.05*, Workshop on the Current Status and Future of Fundamental Astronomy, CSST Science Preparation: The Main Guide Star Catalog For CSST Sky Survey. (**Poster**)
+- *2023.10.10*, China-VO and Astroinformatics 2023, Research on the Guide Star Catalog of the CSST, Research on the Guide Star Catalog of the CSST. (**Talk**)
   <!-- # \| [\[video\]](https://github.com/)-->
 
 <!-- 
