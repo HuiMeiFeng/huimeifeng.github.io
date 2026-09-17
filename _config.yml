@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "HuiMei Feng"
+title                    : "Hui-Mei Feng"
 description              : "MPhil in Physics "
 repository               : "HuiMeiFeng/huimeifeng.github.io"
 google_scholar_stats_use_cdn : true
